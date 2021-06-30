@@ -1,0 +1,34 @@
+[
+
+	{
+		"id": "1",
+		"nome": "Grey's Anatomy",
+		"foto": "https://assets0.minhaserie.com.br/uploads/editor_pictures/000/066/247/content_pic.jpg"
+	},
+	{
+		"id": "2",
+		"nome": "Vingadores: Guerra Infinita",
+		"foto": "https://http2.mlstatic.com/D_NQ_NP_769535-MLB27180957526_042018-O.jpg"
+	},
+	{
+		"id": "3",
+		"nome": "A era do gelo 4",
+		"foto": "https://cinepop.com.br/wp-content/uploads/2016/03/ice_age_five_ver4_xlg-1.jpg"
+	},
+	{
+		"id": "4",
+		"nome": "Black Summer",
+		"foto": "http://img16.lostpic.net/2019/04/11/dd99c84bfdaa5c8333409f6d04bcd4ed.png"
+	},
+	{
+		"id": "5",
+		"nome": "The Witcher",
+		"foto": "https://br.web.img3.acsta.net/pictures/19/11/29/17/57/5161763.jpg"
+	},
+	{
+		"id": "6",
+		"nome": "O Mentalista",
+		"foto": "https://i.pinimg.com/originals/50/15/76/50157618aef24769d9730bd69cce33fe.jpg"
+	}
+
+]

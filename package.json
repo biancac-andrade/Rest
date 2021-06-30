@@ -1,0 +1,23 @@
+{
+  "_comment1": "baixou o yarn:  npm install -g yarn  e depois installou framework espress : yarn add express",
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "testando criar API",
+  "main": "index.js",
+  "_comment2": "baixou nodemon yarn:  yarn global add nodemon  e depois configurou abaixo no scprits para dar start",
+  "scripts": {
+    "start": "nodemon ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ip",
+    "geo",
+    "country"
+  ],
+  "author": "\"Bianca \\ <bc.andrade05@gmail.com\\> (https://your_domain)",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1"
+  }
+}
